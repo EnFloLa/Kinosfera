@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kinosfera</string>
+    <string name="description_logo">Logo</string>
+    <string name="button_play">Reproducir</string>
+    <string name="categoria1">Ficcion</string>
+
+    <string name="title_rv_premiere">Estrenos</string>
+    <string name="title_rv_horror">Terror y misterio</string>
+
+    <string name="title_rv_accion">Accion</string>
+    <string name="title_rv_comedia">Comedia</string>
+    <string name="title_rv_series">Series</string>
+    <string name="title_rv_proximo">Próximos estrenos</string>
+
+    <string name="title_registrar">Crear cuenta</string>
+    <string name="button_registrar">Registrarse</string>
+    <string name="hint_usuario">Email o numero de telefono</string>
+    <string name="hint_contraseña">Contraseña</string>
+</resources>
